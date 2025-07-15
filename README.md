@@ -1,4 +1,5 @@
-# Tours & Travels Platform Development Using CRM-Salesforce
+<h1 align="center">Tours & Travels Platform Development Using CRM-Salesforce</h1>
+
 <p align="center">
   <img width="500" height="500" alt="tours & travels" src="https://github.com/user-attachments/assets/3f060fc2-43c8-4a2e-b531-d3fb5d4ce276" />
 </p>
