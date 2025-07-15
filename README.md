@@ -1,4 +1,4 @@
-<img width="1883" height="832" alt="Field History Tracking" src="https://github.com/user-attachments/assets/7d469f82-fb7d-4117-8255-4c29ccfdcd8d" /><h1 align="center">Tours & Travels Platform Development Using CRM-Salesforce</h1>
+
 <p align="center">
   <img width="500" height="500" alt="tours & travels" src="https://github.com/user-attachments/assets/3f060fc2-43c8-4a2e-b531-d3fb5d4ce276" />
 </p>
