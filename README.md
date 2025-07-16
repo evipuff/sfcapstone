@@ -9,6 +9,7 @@ The Tours and Travel CRM is a Salesforce-based solution tailored for global trav
 With this CRM, agencies can manage diverse trip types (family, solo, corporate), provide country-specific travel packages, automate customer interactions, and monitor employee task performance — all in a centralized system.
 - [View Full Documentation](https://docs.google.com/document/d/1lM6tMN4nyYfqOB-rj7519_mQZkxKRUmN9vE4L2Begoo/edit?usp=sharing)
 - [Screenshot Sources](https://drive.google.com/drive/folders/1hd_o7ppeR2OmHtT36HROISSFpvwZXmDv?usp=sharing)
+- [Video Demonstration](https://drive.google.com/drive/folders/1wRlgYRxl2iWISXGn9hR7IgcmczHA7QiE?usp=sharing)
 
 # *Phase 1*
 In this project, I focused on understanding how tours and travel agencies operate globally—their booking processes, customer relationships, payment tracking, tour coordination, and internal collaboration. These areas often face challenges due to manual workflows and lack of integrated systems. To address this, I gathered information from key stakeholders like travel agents, customer service reps, and finance teams. I also considered the needs of end users to understand what they expect from a CRM system. Pain points—such as delayed communication, manual bookings, and poor feedback tracking—were noted. Resources like ChatGPT, Google, Salesforce Docs, and Trailhead helped shape the direction of the solution.
