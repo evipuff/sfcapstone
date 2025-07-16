@@ -31,7 +31,7 @@ I applied validation rules across several objects to enforce data integrity. In 
 <p align="center"> <img width="1906" height="807" alt="Employee" src="https://github.com/user-attachments/assets/a29b8c1d-d25f-44ab-8d87-2992ef8f1fec" /> </p>
 
 An approval process was added to handle booking cancellations. Once a cancellation is submitted with confirmation, the process automatically routes it to a designated approver (e.g., a manager). Depending on whether it's approved or rejected, the system updates the booking’s status and approval fields, and then sends an email to the customer using pre-defined templates. This adds a layer of oversight for critical changes.
-<p align="center"> <img width="1906" height="806" alt="Booking Cancellation Approval" src="https://github.com/user-attachments/assets/8de3bf7d-287a-4e5b-8080-8cfdca35c589" /> </p>
+<p align="center"> <img width="1904" height="916" alt="image" src="https://github.com/user-attachments/assets/f9cbba28-1c89-40f4-ada0-daff4969ef77" /> </p>
 <p align="center"> <img width="1910" height="808" alt="Email Template 3" src="https://github.com/user-attachments/assets/564f618b-2968-4e59-a3be-f173aef27d91" /> </p>
 <p align="center"> <img width="1906" height="806" alt="Email Template 2" src="https://github.com/user-attachments/assets/6f8754bf-54fb-4289-b33c-264abf974413" /> </p>
 <p align="center"> <img width="1912" height="812" alt="Email Template 1" src="https://github.com/user-attachments/assets/ff3d10d8-5995-4bf6-9976-7810d7f8670b" /> </p>
